@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtivSem02", "AtivSem02\AtivSem02.csproj", "{1574C98B-65E6-4D49-B14E-40FBAFC077BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opcional", "opcional\opcional.csproj", "{6EC61845-CAF6-4FED-AE0B-3DD3637E7E89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1574C98B-65E6-4D49-B14E-40FBAFC077BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1574C98B-65E6-4D49-B14E-40FBAFC077BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1574C98B-65E6-4D49-B14E-40FBAFC077BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1574C98B-65E6-4D49-B14E-40FBAFC077BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC61845-CAF6-4FED-AE0B-3DD3637E7E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC61845-CAF6-4FED-AE0B-3DD3637E7E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC61845-CAF6-4FED-AE0B-3DD3637E7E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC61845-CAF6-4FED-AE0B-3DD3637E7E89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {359B359D-8CE5-4D37-9FA8-007268F08E0E}
+	EndGlobalSection
+EndGlobal
